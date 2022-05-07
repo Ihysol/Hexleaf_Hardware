@@ -1278,6 +1278,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bf156623-bd21-4c32-a172-ef0ec5dab35d)
   )
+  (text "TODO:\n\n- antenna parts\n- button footprints\n- gpio setup (led, half-duplex uart)"
+    (at 204.47 130.81 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ce55d882-0d1b-4813-9267-92e4adf19feb)
+  )
 
   (global_label "U0TXD" (shape input) (at 180.34 60.96 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
