@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "hexleaf")(type "KiCad")(uri "${KIPRJMOD}/hexleaf.kicad_sym")(options "")(descr ""))
+)
