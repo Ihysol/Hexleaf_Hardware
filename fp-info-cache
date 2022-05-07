@@ -1,4 +1,4 @@
-19828868151828336
+19835475955975755
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77546,6 +77546,20 @@ rotary encoder
 5
 4
 SamacSys_Parts
+009155004201006
+009155004201006
+Connector
+0
+4
+4
+SamacSys_Parts
+009155004402006
+009155004402006-3
+Power Supply
+0
+8
+8
+SamacSys_Parts
 1812L010DR
 1812L
 Resettable Fuse
@@ -84594,6 +84608,20 @@ varistor SIOV
 0
 2
 2
+hexleaf
+009155004201006
+009155004201006
+Connector
+0
+4
+4
+hexleaf
+009155004402006
+009155004402006-3
+Power Supply
+0
+8
+8
 hexleaf
 ANTC1608X40N
 2450AT14A0100T-1
