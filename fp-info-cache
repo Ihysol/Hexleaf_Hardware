@@ -1,4 +1,4 @@
-19835475955975755
+19809067832478633
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77546,47 +77546,12 @@ rotary encoder
 5
 4
 SamacSys_Parts
-009155004201006
-009155004201006
-Connector
-0
-4
-4
-SamacSys_Parts
-009155004402006
-009155004402006-3
-Power Supply
-0
-8
-8
-SamacSys_Parts
-1812L010DR
-1812L
-Resettable Fuse
-0
-2
-2
-SamacSys_Parts
-ANTC1608X40N
-2450AT14A0100T-1
+ANTC3216X140N
+ACMA31
 Antenna
 0
 2
 2
-SamacSys_Parts
-ECS4001037B2CKMTR
-ECS-400-10-37B2-CKM-TR-2
-Crystal or Oscillator
-0
-4
-4
-SamacSys_Parts
-ESP32S2MINI1N4R2
-ESP32-S2-MINI-1-N4R2-1
-Integrated Circuit
-0
-73
-73
 SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
@@ -77594,90 +77559,6 @@ Integrated Circuit
 0
 8
 8
-SamacSys_Parts
-QFN50P400X400X100-25N-D
-QFN24_2021
-Integrated Circuit
-0
-25
-25
-SamacSys_Parts
-QFN50P500X500X85-33N-D
-HVQFN32
-Integrated Circuit
-0
-33
-33
-SamacSys_Parts
-QFN50P500X500X90-33N-D
-32-pin QFN
-Integrated Circuit
-0
-33
-33
-SamacSys_Parts
-QFN65P400X400X75-17N
-L16.4x4G
-Integrated Circuit
-0
-17
-17
-SamacSys_Parts
-QFP50P1600X1600X120-100N
-VQG100
-Integrated Circuit
-0
-100
-100
-SamacSys_Parts
-RCLAMP0524PATCT
-SLP2510P8
-TVS Diode (Uni-directional)
-0
-10
-10
-SamacSys_Parts
-SODFL1608X70N
-SOD-523 CASE 502
-Diode
-0
-2
-2
-SamacSys_Parts
-SON50P300X400X90-13N
-L12.3x4_2021
-Integrated Circuit
-0
-13
-13
-SamacSys_Parts
-SON127P800X600X80-9N-D
-WSON 8x6-mm
-Integrated Circuit
-0
-9
-9
-SamacSys_Parts
-SOP50P310X90-8N
-DCU (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOT65P210X110-6N
-SC-88(SOT-363) CASE 419B-02 ISSUE Y
-Transistor
-0
-6
-6
-SamacSys_Parts
-SOT96P237X111-3N
-SOT-23 (TO-236) CASE 318-08 ISSUE AR
-MOSFET (N-Channel)
-0
-3
-3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -84623,8 +84504,8 @@ Power Supply
 8
 8
 hexleaf
-ANTC1608X40N
-2450AT14A0100T-1
+ANTC3216X140N
+ACMA31
 Antenna
 0
 2
@@ -84636,6 +84517,13 @@ Crystal or Oscillator
 0
 4
 4
+hexleaf
+KXT3-1831561
+
+
+0
+2
+2
 hexleaf
 QFN50P500X500X90-33N-D
 32-pin QFN
