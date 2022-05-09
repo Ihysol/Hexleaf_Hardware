@@ -1,4 +1,4 @@
-19809067832478633
+19814024191130902
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84531,3 +84531,24 @@ Integrated Circuit
 0
 33
 33
+hexleaf
+WS2815_Strip_4P_Full
+
+
+0
+4
+4
+hexleaf
+WS2815_Strip_Supply_Only
+
+
+0
+2
+2
+hexleaf
+fpc_6Pin_0.5mm_ebay
+
+
+0
+8
+7
