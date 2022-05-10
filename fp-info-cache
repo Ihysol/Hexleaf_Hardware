@@ -1,4 +1,4 @@
-19814024191130902
+19818981314168533
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77546,6 +77546,20 @@ rotary encoder
 5
 4
 SamacSys_Parts
+009155005201006
+009155005201006-2
+Connector
+0
+5
+5
+SamacSys_Parts
+23287028
+2328702-8-1
+Connector
+0
+10
+10
+SamacSys_Parts
 ANTC3216X140N
 ACMA31
 Antenna
@@ -77555,6 +77569,13 @@ Antenna
 SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOIC127P600X175-8N
+(R-8)
 Integrated Circuit
 0
 8
@@ -84490,19 +84511,12 @@ varistor SIOV
 2
 2
 hexleaf
-009155004201006
-009155004201006
-Connector
+009155005201006
+
+
 0
-4
-4
-hexleaf
-009155004402006
-009155004402006-3
-Power Supply
-0
-8
-8
+5
+5
 hexleaf
 ANTC3216X140N
 ACMA31
@@ -84531,6 +84545,13 @@ Integrated Circuit
 0
 33
 33
+hexleaf
+SOIC127P600X175-8N
+(R-8)
+Integrated Circuit
+0
+8
+8
 hexleaf
 WS2815_Strip_4P_Full
 
