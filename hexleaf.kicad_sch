@@ -2110,7 +2110,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c0154fdb-b3f7-4278-a684-cc832b0ef478)
   )
-  (text "TODO:\n- 12 V -> 3v3\n- switch to RS485?\n\n- gpio setup (led, half-duplex uart)\n- antenna parts only 0402\n- jumper to bypass RS485 tranceiver\n"
+  (text "TODO:\n- 12 V -> 3v3\n- switch to RS485!\n\n- gpio setup (led, half-duplex uart)\n- antenna parts only 0402\n- jumper to bypass RS485 tranceiver\n"
     (at 228.6 275.59 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ce55d882-0d1b-4813-9267-92e4adf19feb)
