@@ -1,4 +1,4 @@
-19818981314168533
+19825593873300674
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77567,6 +77567,13 @@ Antenna
 2
 2
 SamacSys_Parts
+L_5024
+
+
+0
+2
+2
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -77580,6 +77587,13 @@ Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+SOT95P280X100-6N
+TSOT26-7
+Power Supply
+0
+6
+6
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -84539,6 +84553,13 @@ KXT3-1831561
 2
 2
 hexleaf
+L_5024
+
+
+0
+2
+2
+hexleaf
 QFN50P500X500X90-33N-D
 32-pin QFN
 Integrated Circuit
@@ -84552,6 +84573,13 @@ Integrated Circuit
 0
 8
 8
+hexleaf
+SOT95P280X100-6N
+TSOT26-7
+Power Supply
+0
+6
+6
 hexleaf
 WS2815_Strip_4P_Full
 
